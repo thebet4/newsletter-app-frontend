@@ -1,8 +1,7 @@
-export default {
-  primary: '#202c41',
-  border: '#c6c6c6',
-  white: '#fff',
-  gray: '#9ca5ab',
-  background: '#eef0f3',
-  error: '#b55464',
-};
+export const colors = {
+  primary: '#FF9F05',
+  background: '#FFF',
+  textDark: '#112233',
+  textLight: '#6E7983',
+  separetor: '#6E798330'
+}
